@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Handwiritng-Recognition.iml" filepath="$PROJECT_DIR$/.idea/Handwiritng-Recognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Handwriting-Recognition.iml" filepath="$PROJECT_DIR$/.idea/Handwriting-Recognition.iml" />
     </modules>
   </component>
 </project>
